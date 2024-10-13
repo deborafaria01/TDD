@@ -27,6 +27,4 @@ O projeto contém três arquivos principais:
    python -m unittest test_salary_calculator.py
    ```
 
-2. O `unittest` executará os testes e exibirá os resultados no terminal. Todos os testes devem passar sem erros.
-
 
